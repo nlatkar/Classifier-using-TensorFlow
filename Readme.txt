@@ -6,5 +6,5 @@ Readme file
 
 3. Screenshot iamge is tensorboard output showing CNN graph.
 
-4. test_data.npy and train_data.npy are the code files.
+
 
